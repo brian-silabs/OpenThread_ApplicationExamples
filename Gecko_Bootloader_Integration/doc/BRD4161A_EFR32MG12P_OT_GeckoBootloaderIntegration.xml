@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workspace name="Thread">
+  <project device="EFR32MG12P432F1024GL125"
+           name="BRD4161A_EFR32MG12P_OT_GeckoBootloaderIntegration">
+    <targets>
+      <name>slsproj</name>
+    </targets>
+    <includepaths>
+      <path>$PROJ_DIR$\..\src</path>
+    </includepaths>
+    <group name="Source">
+      <source>$PROJ_DIR$\..\src\app.c</source>
+      <source>$PROJ_DIR$\..\src\app.h</source>
+      <source>$PROJ_DIR$\..\src\application_properties.h</source>
+      <source>$PROJ_DIR$\..\src\bootloader-interface-cli.h</source>
+      <source>$PROJ_DIR$\..\src\bootloader-interface-cli.c</source>
+      <source>$PROJ_DIR$\..\readme.txt</source>
+    </group>
+  </project>
+</workspace>

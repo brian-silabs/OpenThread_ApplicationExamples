@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors label="BRD4161A_EFR32MG12P_OT_GeckoBootloaderIntegration" description="This project demonstrates Gecko Bootloaders Interface Integration to an OpenThread FTD">
+    <properties key="core.boardCompatibility" value="brd4161a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
+    <properties key="defaultName" value="BRD4161A_EFR32MG12P_OT_GeckoBootloaderIntegration"/>
+    <properties key="template.category" value="Thread"/>
+    <properties key="template.initiallyOpenedResource" value="readme.txt"/>
+    <properties key="template.projectFilePaths" value="Gecko_Bootloader_Integration/SimplicityStudio/BRD4161A_EFR32MG12P_OT_GeckoBootloaderIntegration.slsproj"/>
+  </descriptors>
+</model:MDescriptors>
